@@ -9,6 +9,8 @@ COVID record by country:
 Global migration networks:
 - https://ourworldindata.org/tourism
 - https://www.shipmap.org/
+- https://cargofive.com/main-shipping-trade-routes-across-the-world/
+- https://www.esri.com/en-us/maps-we-love/gallery/global-air-traffic
 
 
 ## Models
