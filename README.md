@@ -11,6 +11,7 @@ Global migration networks:
 - https://www.shipmap.org/
 - https://cargofive.com/main-shipping-trade-routes-across-the-world/
 - https://www.esri.com/en-us/maps-we-love/gallery/global-air-traffic
+- http://www.spatialanalysis.ca/2011/global-connectivity-mapping-out-flight-routes/
 - https://www.openflights.org/data.html
 - https://www.dhl.com/content/dam/dhl/global/dhl-spotlight/documents/pdf/2021-gci-update-report.pdf
 
