@@ -6,8 +6,9 @@ Forecasting COVID cases and deaths using COVID records by country, geopolitical 
 COVID record by country:
 - https://ourworldindata.org/coronavirus#coronavirus-country-profiles
 
-Global travel records:
+Global migration networks:
 - https://ourworldindata.org/tourism
+- https://ourworldindata.org/trade-and-globalization
 
 
 ## Models
