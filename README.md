@@ -8,7 +8,7 @@ COVID record by country:
 
 Global migration networks:
 - https://ourworldindata.org/tourism
-- https://ourworldindata.org/trade-and-globalization
+- https://www.shipmap.org/
 
 
 ## Models
