@@ -11,6 +11,7 @@ Global migration networks:
 - https://www.shipmap.org/
 - https://cargofive.com/main-shipping-trade-routes-across-the-world/
 - https://www.esri.com/en-us/maps-we-love/gallery/global-air-traffic
+- https://www.openflights.org/data.html
 
 
 ## Models
